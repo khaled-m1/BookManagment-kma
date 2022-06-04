@@ -19,6 +19,6 @@ public class Loan {
     private Long bookId;
 
     @ManyToMany(cascade = CascadeType.ALL)
-
+    @JoinColumn(name = "bookId",referencedColumnName = "bookId")
     private Set<Books> books;
 }

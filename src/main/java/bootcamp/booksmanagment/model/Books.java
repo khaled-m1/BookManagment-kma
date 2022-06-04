@@ -30,5 +30,6 @@ public class Books {
     private Set<Loan> loan;
     @ManyToOne
     @JsonIgnore
+    @JoinColumn(name = "userId",referencedColumnName = "userId")
     private MyUser myUser;
 }

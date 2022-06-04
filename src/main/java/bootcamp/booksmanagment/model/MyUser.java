@@ -26,6 +26,6 @@ public class MyUser {
     private String password;
 
 
-    @OneToMany(mappedBy = "myUser",cascade = CascadeType.ALL,orphanRemoval = true)
+    @OneToMany(mappedBy = "myUser",cascade = CascadeType.ALL)
     private Set<Books> books;
 }
