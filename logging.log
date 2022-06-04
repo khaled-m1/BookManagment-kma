@@ -1,0 +1,36 @@
+2022-06-05 00:02:25.570 ERROR 1173 --- [http-nio-8080-exec-1] b.booksmanagment.service.MyUserService   : Error in add user
+2022-06-05 00:02:29.465 ERROR 1173 --- [http-nio-8080-exec-3] b.booksmanagment.service.MyUserService   : Error in get users
+2022-06-05 00:02:33.855 ERROR 1173 --- [http-nio-8080-exec-4] b.booksmanagment.service.BookService     : Error in add books
+2022-06-05 00:02:37.525 ERROR 1173 --- [http-nio-8080-exec-5] b.booksmanagment.service.BookService     : Error in get books
+2022-06-05 00:02:42.317 ERROR 1173 --- [http-nio-8080-exec-6] b.booksmanagment.service.LoanService     : Error add loan
+2022-06-05 00:02:45.888 ERROR 1173 --- [http-nio-8080-exec-7] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:04:19.786 ERROR 1173 --- [http-nio-8080-exec-2] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:06:03.726 ERROR 1201 --- [http-nio-8080-exec-1] b.booksmanagment.service.MyUserService   : Error in add user
+2022-06-05 00:06:06.460 ERROR 1201 --- [http-nio-8080-exec-3] b.booksmanagment.service.BookService     : Error in add books
+2022-06-05 00:06:09.899 ERROR 1201 --- [http-nio-8080-exec-4] b.booksmanagment.service.LoanService     : Error add loan
+2022-06-05 00:06:36.060 ERROR 1201 --- [http-nio-8080-exec-6] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:08:46.658 ERROR 1201 --- [http-nio-8080-exec-3] b.booksmanagment.service.BookService     : Error in get books
+2022-06-05 00:09:30.730 ERROR 1215 --- [http-nio-8080-exec-1] b.booksmanagment.service.MyUserService   : Error in add user
+2022-06-05 00:09:33.548 ERROR 1215 --- [http-nio-8080-exec-3] b.booksmanagment.service.BookService     : Error in add books
+2022-06-05 00:09:37.793 ERROR 1215 --- [http-nio-8080-exec-4] b.booksmanagment.service.LoanService     : Error add loan
+2022-06-05 00:09:47.906 ERROR 1215 --- [http-nio-8080-exec-6] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:10:44.979 ERROR 1222 --- [http-nio-8080-exec-1] b.booksmanagment.service.MyUserService   : Error in add user
+2022-06-05 00:10:46.808 ERROR 1222 --- [http-nio-8080-exec-3] b.booksmanagment.service.BookService     : Error in add books
+2022-06-05 00:10:50.441 ERROR 1222 --- [http-nio-8080-exec-4] b.booksmanagment.service.LoanService     : Error add loan
+2022-06-05 00:10:52.383 ERROR 1222 --- [http-nio-8080-exec-5] b.booksmanagment.service.LoanService     : Error add book to loan
+2022-06-05 00:10:52.426 ERROR 1222 --- [http-nio-8080-exec-5] b.booksmanagment.service.LoanService     : Error add book to loan
+2022-06-05 00:10:59.501 ERROR 1222 --- [http-nio-8080-exec-6] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:14:52.299 ERROR 1252 --- [http-nio-8080-exec-1] b.booksmanagment.service.MyUserService   : Error in add user
+2022-06-05 00:14:54.773 ERROR 1252 --- [http-nio-8080-exec-3] b.booksmanagment.service.BookService     : Error in add books
+2022-06-05 00:14:58.794 ERROR 1252 --- [http-nio-8080-exec-4] b.booksmanagment.service.LoanService     : Error add loan
+2022-06-05 00:15:01.614 ERROR 1252 --- [http-nio-8080-exec-5] b.booksmanagment.service.LoanService     : Error add book to loan
+2022-06-05 00:15:01.655 ERROR 1252 --- [http-nio-8080-exec-5] b.booksmanagment.service.LoanService     : Error add book to loan
+2022-06-05 00:15:05.670 ERROR 1252 --- [http-nio-8080-exec-6] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:17:54.286 ERROR 1264 --- [http-nio-8080-exec-2] b.booksmanagment.service.MyUserService   : Error in add user
+2022-06-05 00:17:57.107 ERROR 1264 --- [http-nio-8080-exec-3] b.booksmanagment.service.BookService     : Error in add books
+2022-06-05 00:18:00.328 ERROR 1264 --- [http-nio-8080-exec-4] b.booksmanagment.service.LoanService     : Error add loan
+2022-06-05 00:18:02.623 ERROR 1264 --- [http-nio-8080-exec-5] b.booksmanagment.service.LoanService     : Error add book to loan
+2022-06-05 00:18:02.676 ERROR 1264 --- [http-nio-8080-exec-5] b.booksmanagment.service.LoanService     : Error add book to loan
+2022-06-05 00:18:06.088 ERROR 1264 --- [http-nio-8080-exec-6] b.booksmanagment.service.LoanService     : Error get loan
+2022-06-05 00:19:11.902 ERROR 1264 --- [http-nio-8080-exec-9] b.booksmanagment.service.BookService     : Error in get books
+2022-06-05 00:20:23.263 ERROR 1264 --- [http-nio-8080-exec-1] b.booksmanagment.service.LoanService     : Error get loan
